@@ -1,0 +1,3 @@
+https://colab.research.google.com/drive/1V46i5cj_Rn-itGoN7F_K6E4Ft9R7HfyR?usp=drive_link 학습용 코랩
+
+https://colab.research.google.com/drive/1VvmlnhkV4yRHyznPXmhQi-9LxMnZM_A8?usp=drive_link 추론용 코랩
